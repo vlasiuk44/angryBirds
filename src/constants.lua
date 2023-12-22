@@ -1,0 +1,6 @@
+-- constants.lua:
+WINDOW_WIDTH = 1920 / 2
+WINDOW_HEIGHT = 1080 / 2
+
+scale_x = WINDOW_WIDTH / (WINDOW_WIDTH / 2)
+scale_y = WINDOW_HEIGHT / (WINDOW_HEIGHT / 2)
